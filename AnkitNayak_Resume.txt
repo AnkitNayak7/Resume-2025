@@ -1,0 +1,103 @@
+Ankit Nayak
+Technology Lead @ Knowledge Lens: A Rockwell Automation Company
+📍 Bangalore, KA
+📞 +91 7978609324
+✉️ ankit.nyk2331@gmail.com
+🔗 LinkedIn
+🌐 Website
+
+Summary
+Project Manager and Technology Lead with over 7 years of software development and project management expertise. Extensive experience with pharma clients, including Amgen and Pfizer, delivering applications focused on Process and Knowledge Management. Proficient in leading cross-functional teams, driving quality standards, and ensuring timely project completion. Skilled in Programming, Cloud Technologies, Data Ingestion, and Visualization.
+
+Core Skills
+Project & Technical Leadership: End-to-End Lifecycle Management, Cross-Functional Team Coordination, Agile Methodologies
+
+Project Management: Timeline Planning, Resource and Budget Management, Stakeholder Communication, Risk Mitigation
+
+Tools for Management: Jira, Azure DevOps, GitLab, GitHub Actions
+
+Cloud & Database: AWS, Azure, MySQL, MongoDB, Redshift, ElasticSearch
+
+Programming & Frameworks: Python, JavaScript, Tornado, Flask
+
+Data Analysis & Visualization: Spotfire, R Shiny, Data Processing, Report Automation
+
+DevOps & CI/CD: GitHub Actions, Jenkins, GitLab, PyCharm, Visual Studio Code
+
+Professional Experience
+TTechnology Lead Sept 2019 Present
+Knowledge Lens: A Rockwell Automation Company
+
+Project Lead – FactoryTalk DataMosaix (FTDM)
+Led the DataOps application project, managing the entire lifecycle from stakeholder engagement to resource
+planning, effort estimation, and execution timelines. Coordinated cross-functional teams to ensure seamless
+solution delivery and actively participated in development and testing phases to uphold quality standards.
+Collaborated with internal teams and stakeholders to eliminate unnecessary implementations, reducing the
+team's effort by approximately 20%.
+Additionally, implemented effective risk mitigation strategies and enhanced team coordination, achieving a
+30% reduction in project delays.
+
+Technology Lead – Product and Knowledge Management (PKM)
+Led a team for Pfizer's Data Ingestion Module, collaborating with Infosys, Rockwell, and Pfizer to develop the
+iRME solution.
+Designed and implemented the Visual Recipe Builder (VRB) to introduce Branching and Looping functionality
+tailored for pharmaceutical use cases.
+Contributed to application enhancements and optimized MongoDB queries, significantly improving
+performance and efficiency.
+
+
+Backend Developer – Non-Conformance Trending (NLP)
+Worked on a data processing project leveraging AWS Lambda, Step Functions, Redshift, Python, S3,
+Databricks, and Spotfire technologies.
+Developed Lambda modules to retrieve data from S3, utilized Step Functions to manage orchestration and
+status tracking and employed Databricks for data processing and transformation.
+Ingested processed Parquet file data into Redshift and created comprehensive reports for Drug Quality
+Controllers and SMEs to effectively monitor deviations from quality parameters.
+
+Backend Developer – Process Development and HLEE (Holistic Lab Execution Environment)
+Collaborated with the ZS team to build an Enterprise Data Lake, focusing on architectural design, pipeline
+orchestration, and managing full and incremental data loads. Successfully integrated EC2 instances with
+Databricks for seamless operations.
+Developed a Redshift module to ingest Parquet files from S3 into Redshift, significantly enhancing
+performance. Additionally, created Spotfire reports to streamline the monitoring of data ingestion, generate
+alerts, and simplify maintenance tasks.
+
+Backend Developer – Support Lens Application
+Designed and developed an incident management application to efficiently capture, record, and manage
+user-reported incidents.
+Automated workflows for incident classification, prioritization, and assignment, significantly reducing manual
+effort and improving operational efficiency.
+Implemented a dynamic assignment mechanism to automatically allocate incidents to the appropriate
+support groups or individuals, further enhancing efficiency and response times.
+Integrated the "Support Lens" application with various systems and tools, enabling seamless data exchange
+and improving connectivity across the IT ecosystem.
+
+
+Junior Data Scientist Nov-2017 Aug-2019
+Knowledge Lens
+
+Backend Developer- GLENS Air Quality Monitoring System
+Preprocessed and cleaned device and analyzer data to ensure accuracy and consistency.
+Analyzed data based on recency and frequency to calculate Air Quality Index (AQI) exceedances, providing
+actionable insights into air pollution trends.
+Developed interactive reports and automated data analysis processes using Python and R Shiny, enhancing
+data visualization and accessibility.
+Utilized Elasticsearch and MySQL as secondary databases for efficient data management and retrieval.
+Redesigned and implemented a module/service to create an AQI Dashboard, enabling stakeholders to
+monitor air quality metrics in real-time effectively.
+
+
+
+Education
+MBA (2014 – 2016) – Utkal University, Bhubaneswar, Odisha
+
+BBA (2011 – 2014) – B.J.B Autonomous College, Bhubaneswar, Odisha
+
+Awards & Recognition
+Sept 2021: Extra Mile Award
+
+Mar 2021: Star of the Month for timely delivery
+
+Aug 2020: Appreciation from Govt. of Karnataka for COVID-19 voluntary work
+
+Nov 2018: Best Initiator of the Year at Knowledge Lens
